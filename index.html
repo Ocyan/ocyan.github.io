@@ -1,248 +1,173 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Ocyan is a platform that provides you all the necessary services to create mobile IoT applications without the hasle to maintain an infrastructure.">
-    <meta name="keywords" content="serverless,mbaas,baas,iaas,saas,backend,parse,firebase,cloud,database,rest,api">
+    <meta name="description" content="Ocyan is the platform that provides you all the necessary services to create mobile, IoT and web applications without the hassle to maintain an infrastructure.">
+    <meta name="keywords" content="serverless,mbaas,baas,iaas,saas,backend,parse,firebase,cloud,database,rest,api,blockchain,infrastructure,app,development,iot">
     <meta name="google-site-verification" content="IFUQ8Ontdw4bha8ChJJjUY0KGf6uy6f_79haAr6j6RI" />
     <meta name="google-site-verification" content="SbPQpGApMX3M8jPF73c2QADdj_XVK1Z7MBOFzX_LTQ0" />
 
-    <title>Ocyan.io</title>
+    <title>ocyan.com</title>
 
     <!-- Styles -->
-    <link href="assets/css/core.min.css" rel="stylesheet">
-    <link href="assets/css/thesaas.min.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 
     <!-- Favicons -->
-    <link rel="icon" href="assets/img/favicon.png">
-    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-  </head>
+    <link rel="icon" href="assets/img/favicon.ico">
 
-  <body>
+    <style type="text/css">
+        html {
+            position: relative;
+            min-height: 100%;
+        }
+        
+        body {
+            margin: 0 0 100px;
+            /* bottom = footer height */
+            padding: 25px;
+        }
+        
+        footer {
+            background-color: rgb(0, 0, 0);
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            overflow: hidden;
+        }
+    </style>
+</head>
 
+<body>
+    <div class="container">
+        <h1 id="ocyan">
+            <center>
+                <img alt="ocyan" title="ocyan" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAW4AAAAxCAMAAADN07MrAAAAMFBMVEX///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAv3aB7AAAAEHRSTlMAM1V3u93/IqqIzBFE7maZnYvkFQAABJlJREFUeAHVnN2SrCgQhKf4KVEE3v9tN3YjJk53Km1SxJ4Z8nJCSvyAMgvp+UKJ8yFE/aAYgnfyRWpzPoWorKL/r9Wu3zr2/DWmM5XvxuG2bQ1/7kYHz0lfdFSmDTSN2Mg1GkxsjnhyJh7o/HeM9EXlHKK964v80wUHyztBNxPVEJrK6yB4ng01N8h4II+4Vev4TOrjdvqmRgZW1EHzvu1ONcCJH2a4G4mHhBr+jVQ+npDkoqax1CvvzY47JzUJ15Q5HnTJm+agxMcJGBRUNiNuLWLFLYcaddzecxuPB12q+qaQGdrlfYxu2vibJ7DiRt40binKi7jnNhHPAzs+VdbyuCKkc0cbbi3Ogjvb5yKCmI93djJDlCfazzk5x/4tSWagasCddEoJ40/Ei747akV4A6ilPri58npxNuPWOozb4RJJ/uw+mpw+YapwaLVAEI9WTvyjNRiap/l/epgwPDPMWWO4MyzaSmRJaPL1JiIeJ94Q5oPwaFt5i5QgMMvsBB/QxnB7i8X1pdOIiscLDeGQ3Qa9XBRwmskAbrxdyyO4o8FKgnGIOLmxALerEj5fqOW9o9c+YYRo3F85wPDyuJ3CIFt4v1A94Z1vFm0I4Yr9Ps55fdl4aEXjxix3ZBp3s658fzeh6Hi8BDKF8AYQi3dEG2AIeNzIW1jcEXICq05LezwQawg9V3gELCPx5Vm2Idx4X+FwbzAxjGn1u69EPAPvBp6aMIAgf+WKnjUM4cZVVYTC7Ui3/7A+3d0DYDy7WidhZDKHCjS+LY78GG7kXRncfsTsg9K1q4Z4FoPSMM3gPla/eG/oDgEkjxvf0ZXADcg49dEa4nGqN7t9dL3ROgsAkMU8hht5+2fcYcK1ndfEZ4hnNoTcw0KCk0/rJg3ixm209og7Yk8GJFcTYohnNYSeW8qX4h2VMMgA7kuB+YRb/2icwLWxPR5lCEFc+frSLD0k9iKDuLFTKa+JmzCE5Ga4/5Sc0bYcPG7aHK2IG30bXUSfD9aDLOY/BEHe6+PGFxt/5iN/StxEMU/gBt5RVsYNckVRjawNAjUmJQ/gJgrM1ZwJSJC3J0uDQmacQOAmeK/su/uHKkplx8axLwU/jhsXXV2xqiQMYRH2yr1/GRbzwuNmCvr19kxA7DberibFPI4befuVdwRtuJ0a1Qy4+zs4q+13G3FvRa2qLG6ioF/ta44Vd1CzymbAjbxDXvFbpRW31wkdHG6iwPybX+Ll53CfOqWdwE3w/svnTOSncOeoczotuK9fjNc6RWXGnXRSJRO4iQLz8Ywg4Uli36de4+UfwF11WsmGG3mfy5yAteOWYisnBBYmhxt0QoG5yPluC27i+zqfesWGGwvMBX69MId7R4vBK+CTGXDDF+MFfpszhduBgeYFXW8m3DjhFvjl2QzuTJ78IzZanAk38F7gd5UzuMPcts2OxTyJmwDg4ZgSIdY0uvgjuGFzYfZ8ReBxo1rn2X7Vb+LncTOn0Hg3KDRugrf/jf/x4Vnp0+BEfguB2VnGW5aROCD53/+fiRj+nwmdGMv+wYWVZq6tXPhm6/GWx0hQSeU99f4DhiK7fAvSm6kAAAAASUVORK5CYII="
+                />
+            </center>
+        </h1>
 
-    <!-- Topbar -->
-    <nav class="topbar topbar-inverse topbar-expand-sm">
-      <div class="container">
-
-        <div class="topbar-left">
-          <a class="topbar-brand" href="index.html" style="color: #ffffff;">
-            OCyan
-          </a>
-        </div>
-
-      </div>
-    </nav>
-    <!-- END Topbar -->
-
-
-
-
-    <!-- Header -->
-    <header class="header header-inverse h-fullscreen p-0 bg-primary overflow-hidden" style="background-image: linear-gradient(to right, #434343 0%, black 100%);">
-      <canvas class="constellation"></canvas>
-
-      <div class="container text-center">
-
-        <div class="row h-full align-items-center">
-          <div class="col-12 col-md-8 offset-md-2">
-
-            <h1 class="display-4">Built for Creators!</h1>
-            <br>
-            <p class="lead text-white fs-20">
-                Ocyan is a platform that provides you all the necessary services
-                to create mobile, IoT and web applications without the hasle to
-                maintain an infrastructure.
+        <center>
+            <p style="width: 50%">
+                Ocyan is the platform that provides you all the necessary services to create mobile, IoT and web applications without the hassle to maintain an infrastructure.
             </p>
-            <br>
+        </center>
 
-          </div>
+        <hr>
+
+        <h2 id="get-a-better-understanding">
+            <center>
+                <span>
+                      Get a Better Understanding
+                  </span>
+            </center>
+        </h2>
+
+        <div style="position: relative; width: 100%; margin: 10px; padding: 5px; clear: both;">
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="user-management"><i class="icon-users"></i> User Management</h4>
+
+                <p align="justify">Manage your users, and provide them a secure access with a secure login from within your App (with OAuth2).</p>
+            </div>
+
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="datastore-database"><i class="icon-hdd"></i> Datastore &amp; Database</h4>
+
+                <p align="justify">Store your data, and never worry about scalability ever again. Access your entries via out-of the box APIs with PouchDB, or via a friendly Web RESTfull API.</p>
+            </div>
+
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="geospatial-indexing"><i class="icon-globe"></i> Geospatial Indexing</h4>
+
+                <p align="justify">Index and search for your data based on Geolocation queries.</p>
+            </div>
+
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="logic-blocks"><i class="icon-code"></i> Logic Blocks</h4>
+
+                <p align="justify">Execute your custom Logic blocks, by either accessing them as webhooks, or ignite them as Database triggers.</p>
+            </div>
+
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="task-scheduling"><i class="icon-clock"></i> Task Scheduling</h4>
+
+                <p align="justify">Set intervals of execution for your code, in order to execute bespoke tasks, or consume third-party APIs and aggregate the results.</p>
+            </div>
+        </div>
+        <div style="position: relative; width: 100%; margin: 10px; padding: 5px; clear: both;">
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="push-notifications"><i class="icon-comment"></i> Push Notifications</h4>
+
+                <p align="justify">Reach your audience by sending native mobile messages.</p>
+            </div>
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="messaging-for-iot"><i class="icon-exchange"></i> Messaging for IoT</h4>
+
+                <p align="justify">Trigger events in your cloud infrastructure based on Messaging interactions.</p>
+            </div>
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="monitoring-metrics"><i class="icon-desktop"></i> Monitoring &amp; Metrics</h4>
+
+                <p align="justify">Ocyan is generating metrics out-of the box for all of the resources that you use, so you can run your analysis.</p>
+            </div>
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="blockchain-events"><i class="icon-sitemap"></i> Blockchain events</h4>
+
+                <p align="justify">Bind your backend logic to Events of public blockchains, and execute your backend set-up reactively.</p>
+            </div>
+
+            <div style="width: 18%; position: relative; float: left; margin: 10px; padding: 5px;">
+                <h4 id="cloud-marketplace"><i class="icon-cloud"></i> Cloud Marketplace</h4>
+
+                <p align="justify">Sell your solutions to Ocyan’s marketplace and benefit from a payment policy that you decide.</p>
+            </div>
         </div>
 
-      </div>
-    </header>
-    <!-- END Header -->
+        <hr style="clear: both;">
 
+        <h2 id="subscribe-to-join-our-beta">
+            <center>
+                <span>
+                    Subscribe to join our Beta
+                  </span>
+            </center>
+        </h2>
 
-
-
-    <!-- Main container -->
-    <main class="main-content">
-
-
-      <section class="section">
-        <div class="container">
-          <header class="section-header mb-0">
-            <small><strong>Welcome</strong></small>
-            <h2>Get a Better Understanding</h2>
-            <hr>
-          </header>
-
-
-
-          <div class="row gap-y">
-
-            <div class="col-12 col-md-6 col-xl-4">
-              <div class="flexbox gap-items-4">
-                <div>
-                  <i class="fa fa-users fs-25 pt-4 text-secondary"></i>
-                </div>
-
-                <div>
-                  <h5>User Management</h5>
-                  <p>Manage your users, and provide them a secure access with OAuth2.</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-12 col-md-6 col-xl-4">
-              <div class="flexbox gap-items-4">
-                <div>
-                  <i class="fa fa-database fs-25 pt-4 text-secondary"></i>
-                </div>
-
-                <div>
-                  <h5>Datastore</h5>
-                  <p>Store your data, and never worry about scalability ever again. Access your entries via PouchDB, or via a firendly Web RESTfull API.</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-12 col-md-6 col-xl-4">
-              <div class="flexbox gap-items-4">
-                <div>
-                  <i class="fa fa-globe  fs-25 pt-4 text-secondary"></i>
-                </div>
-
-                <div>
-                  <h5>Geospatial Indexing</h5>
-                  <p>Index and search for your data based on Geolocation queries.</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-12 col-md-6 col-xl-4">
-              <div class="flexbox gap-items-4">
-                <div>
-                  <i class="fa fa-code fs-25 pt-4 text-secondary"></i>
-                </div>
-
-                <div>
-                  <h5>Cloud Code</h5>
-                  <p>Execute your custom Logic blocks, by either accessing them as webhooks, or ignite them as Database triggers.</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-12 col-md-6 col-xl-4">
-              <div class="flexbox gap-items-4">
-                <div>
-                  <i class="fa fa-comments-o fs-25 pt-4 text-secondary"></i>
-                </div>
-
-                <div>
-                  <h5>Push Notifications</h5>
-                  <p>Reach your audience by sending native mobile messages.</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-12 col-md-6 col-xl-4">
-              <div class="flexbox gap-items-4">
-                <div>
-                  <i class="fa fa-microchip fs-25 pt-4 text-secondary"></i>
-                </div>
-
-                <div>
-                  <h5>Messaging for IoT</h5>
-                  <p>Trigger events in your cloud infrastructure based on Messaging interactions.</p>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </section>
-
-      <section class="section bg-gray">
-        <div class="container-fluid">
-          <header class="section-header">
-            <small><strong>Stay in Touch</strong></small>
-            <h2 class="fs-60 hidden-sm-down">Subscribe to join our Beta</h2>
-            <h2 class="fs-30 hidden-md-up">Subscribe to join our Beta</h2>
-            <hr>
-            <p class="lead">Subscribe for free to be the first to know, when we launch our beta version.</p>
-          </header>
-
-          <div class="row text-center">
-            <div class="col-12 offset-md-3 col-md-6 offset-lg-4 col-lg-4">
-              <form action="//tech.us16.list-manage.com/subscribe/post?u=a86be2f26d791510072603ed5&amp;id=4cf0b52ac6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <center style="width: 30%; margin: auto; position: relative;">
+            <form action="//tech.us16.list-manage.com/subscribe/post?u=a86be2f26d791510072603ed5&amp;id=4cf0b52ac6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
                 <div class="form-group">
-                  <input type="email" value="" name="EMAIL" class="email form-control form-control-lg" placeholder="Email">
-                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a86be2f26d791510072603ed5_4cf0b52ac6" tabindex="-1" value=""></div>
+                    <input type="email" value="" name="EMAIL" class="email form-control form-control-lg" placeholder="Email">
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a86be2f26d791510072603ed5_4cf0b52ac6" tabindex="-1" value=""></div>
                 </div>
 
                 <!-- <button class="btn btn-block btn-lg btn-success">Stay In touch</button> -->
 
                 <input type="submit" value="Stay In touch" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-block btn-lg btn-success">
-              </form>
-            </div>
-          </div>
+            </form>
+        </center>
 
-        </div>
-      </section>
-
-
-
-
-    </main>
-    <!-- END Main container -->
-
-
-
-
-
-
-    <!-- Footer -->
-    <footer class="site-footer">
-      <div class="container">
-        <div class="row gap-y align-items-center">
-          <div class="col-12 col-lg-3">
-            <p class="text-center text-lg-left">
-                <a class="topbar-brand" href="index.html" style="color: #000000;">
-                  OCyan
-                </a>
+        <footer>
+            <p style="margin: 25px; float: left;">
+                <img alt="ocyan" title="ocyan" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAW4AAAAxCAMAAADN07MrAAAAMFBMVEX///////////////////////////////////////////////////////////////9Or7hAAAAAEHRSTlMAM1V3u93/IqqIzBFE7maZnYvkFQAABJlJREFUeAHVnN2SrCgQhKf4KVEE3v9tN3YjJk53Km1SxJ4Z8nJCSvyAMgvp+UKJ8yFE/aAYgnfyRWpzPoWorKL/r9Wu3zr2/DWmM5XvxuG2bQ1/7kYHz0lfdFSmDTSN2Mg1GkxsjnhyJh7o/HeM9EXlHKK964v80wUHyztBNxPVEJrK6yB4ng01N8h4II+4Vev4TOrjdvqmRgZW1EHzvu1ONcCJH2a4G4mHhBr+jVQ+npDkoqax1CvvzY47JzUJ15Q5HnTJm+agxMcJGBRUNiNuLWLFLYcaddzecxuPB12q+qaQGdrlfYxu2vibJ7DiRt40binKi7jnNhHPAzs+VdbyuCKkc0cbbi3Ogjvb5yKCmI93djJDlCfazzk5x/4tSWagasCddEoJ40/Ei747akV4A6ilPri58npxNuPWOozb4RJJ/uw+mpw+YapwaLVAEI9WTvyjNRiap/l/epgwPDPMWWO4MyzaSmRJaPL1JiIeJ94Q5oPwaFt5i5QgMMvsBB/QxnB7i8X1pdOIiscLDeGQ3Qa9XBRwmskAbrxdyyO4o8FKgnGIOLmxALerEj5fqOW9o9c+YYRo3F85wPDyuJ3CIFt4v1A94Z1vFm0I4Yr9Ps55fdl4aEXjxix3ZBp3s658fzeh6Hi8BDKF8AYQi3dEG2AIeNzIW1jcEXICq05LezwQawg9V3gELCPx5Vm2Idx4X+FwbzAxjGn1u69EPAPvBp6aMIAgf+WKnjUM4cZVVYTC7Ui3/7A+3d0DYDy7WidhZDKHCjS+LY78GG7kXRncfsTsg9K1q4Z4FoPSMM3gPla/eG/oDgEkjxvf0ZXADcg49dEa4nGqN7t9dL3ROgsAkMU8hht5+2fcYcK1ndfEZ4hnNoTcw0KCk0/rJg3ixm209og7Yk8GJFcTYohnNYSeW8qX4h2VMMgA7kuB+YRb/2icwLWxPR5lCEFc+frSLD0k9iKDuLFTKa+JmzCE5Ga4/5Sc0bYcPG7aHK2IG30bXUSfD9aDLOY/BEHe6+PGFxt/5iN/StxEMU/gBt5RVsYNckVRjawNAjUmJQ/gJgrM1ZwJSJC3J0uDQmacQOAmeK/su/uHKkplx8axLwU/jhsXXV2xqiQMYRH2yr1/GRbzwuNmCvr19kxA7DberibFPI4befuVdwRtuJ0a1Qy4+zs4q+13G3FvRa2qLG6ioF/ta44Vd1CzymbAjbxDXvFbpRW31wkdHG6iwPybX+Ll53CfOqWdwE3w/svnTOSncOeoczotuK9fjNc6RWXGnXRSJRO4iQLz8Ywg4Uli36de4+UfwF11WsmGG3mfy5yAteOWYisnBBYmhxt0QoG5yPluC27i+zqfesWGGwvMBX69MId7R4vBK+CTGXDDF+MFfpszhduBgeYFXW8m3DjhFvjl2QzuTJ78IzZanAk38F7gd5UzuMPcts2OxTyJmwDg4ZgSIdY0uvgjuGFzYfZ8ReBxo1rn2X7Vb+LncTOn0Hg3KDRugrf/jf/x4Vnp0+BEfguB2VnGW5aROCD53/+fiRj+nwmdGMv+wYWVZq6tXPhm6/GWx0hQSeU99f4DhiK7fAvSm6kAAAAASUVORK5CYII="
+                />
             </p>
-          </div>
+            <p style="font-size: smaller; margin: 25px; color: #ffffff; float: right;">
+                Ocyan Cloud LTD <br> 71-75 Shelton Street, <br> Covent Garden, <br> London, England, <br> WC2H 9JQ
+            </p>
+        </footer>
+    </div>
+</body>
 
-          <div class="col-12 col-lg-6">
-          </div>
-
-          <div class="col-12 col-lg-3">
-            <div class="social text-center text-lg-right">
-              <a class="social-facebook" href="https://www.facebook.com/ocyan.io"><i class="fa fa-facebook"></i></a>
-              <a class="social-twitter" href="https://twitter.com/ocyan_tech"><i class="fa fa-twitter"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!-- END Footer -->
-
-
-    <!-- Scripts -->
-    <script src="assets/js/core.min.js"></script>
-    <script src="assets/js/thesaas.min.js"></script>
-    <script src="assets/js/script.js"></script>
-
-  </body>
 </html>
