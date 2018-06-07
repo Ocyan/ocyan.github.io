@@ -1,7 +1,7 @@
 [OCYAN](https://www.ocyan.com)
 ===================
 
-Ocyan is the platform that provides you all the necessary services to create mobile, IoT and web applications without the hassle to maintain an infrastructure.
+Ocyan is the cloud platform that enables faster blockchain adoption for your business, it is an infrastructure solution for blockchain tailored to your needs.
 
 ----------
 
@@ -9,49 +9,16 @@ Ocyan is the platform that provides you all the necessary services to create mob
 Get a Better Understanding
 -------------
 
-#### <i class="icon-users"></i> User Management
+#### <i class="icon-cloud"></i> Cloud Optimisation
 
-Manage your users, and provide them a secure access with a secure login from within your App (with OAuth2).
+Ocyan provides to your team an optimal cloud infrastructure solution that enables your team to only focus their development on the business aspects of your application.
 
-#### <i class="icon-hdd"></i> Datastore & Database
+#### <i class="icon-sitemap"></i> Blockchain Infrastructure
 
-Store your data, and never worry about scalability ever again. Access your entries via out-of the box APIs with PouchDB, or via a friendly Web RESTfull API.
+Your blockchain infrastructure is only one click away, with Ocyan you can deploy as many private or public projects in a blockchain infrastructure that fits your needs the best.
 
-#### <i class="icon-globe"></i> Geospatial Indexing
+#### <i class="icon-building"></i> Business Support
 
-Index and search for your data based on Geolocation queries.
-
-#### <i class="icon-code"></i> Logic Blocks
-
-Execute your custom Logic blocks, by either accessing them as webhooks, or ignite them as Database triggers.
-
-#### <i class="icon-clock"></i> Task Scheduling
-
-Set intervals of execution for your code, in order to execute bespoke tasks, or consume third-party APIs and aggregate the results.
-
-#### <i class="icon-comment"></i> Push Notifications
-
-Reach your audience by sending native mobile messages.
-
-
-#### <i class="icon-exchange"></i> Messaging for IoT
-
-Trigger events in your cloud infrastructure based on Messaging interactions.
-
-
-#### <i class="icon-desktop"></i> Monitoring & Metrics
-
-Ocyan is generating metrics out-of the box for all of the resources that you use, so you can run your analysis.
-
-
-#### <i class="icon-sitemap"></i> React on Blockchain events
-
-Bind your backend logic to Events of public blockchains, and execute your backend set-up reactively.
-
-
-#### <i class="icon-cloud"></i> Cloud Marketplace
-
-Sell your solutions to Ocyan's marketplace and benefit from a payment policy that you decide.
-
+Our team is always here to help! We will support you, and do our best to enable your business to jump into new innovations, with a guarantee of success.
 
 https://ocyan.com
