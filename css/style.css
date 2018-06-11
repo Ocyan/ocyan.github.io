@@ -458,6 +458,22 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 
+.gtco-services .consult-service {
+  background-color: #36afbc;
+}
+
+.gtco-services .consult-service h3 {
+  color: white;
+}
+
+.gtco-services .consult-service h3 i {
+  color: white;
+}
+
+.gtco-services .consult-service p {
+  color: #fff7e7;
+}
+
 .gtco-products .one-row, .gtco-products .two-row {
   width: 100%;
   display: block;
@@ -1880,5 +1896,7 @@ form label {
   background: none;
   background: #4d4d4d;
 }
+
+
 
 /*# sourceMappingURL=style.css.map */
