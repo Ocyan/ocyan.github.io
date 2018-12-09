@@ -1,24 +1,23 @@
 [OCYAN](https://www.ocyan.com)
 ===================
 
-Ocyan is the cloud platform that enables faster blockchain adoption for your business, it is an infrastructure solution for blockchain tailored to your needs.
+Ocyan increases the extend to which FinTech enterprises can easily and reliably integrate with decentralized networks, by providing the necessary infrastructure and analytics services that are required.
 
 ----------
 
-
-Get a Better Understanding
+Enterprise Cloud Platform for Analytics and Infrastructure Services for FinTech Blockchain Applications
 -------------
 
-#### <i class="icon-cloud"></i> Cloud Optimisation
+#### <i class="icon-cloud"></i> Robust Cloud Infrastructure on-premise
 
-Ocyan provides to your team an optimal cloud infrastructure solution that enables your team to only focus their development on the business aspects of your application.
+We deploy a scalable and durable blockchain configuration making sure your critical data are encrypted and secure within your own cloud account.
 
-#### <i class="icon-sitemap"></i> Blockchain Infrastructure
+#### <i class="icon-sitemap"></i> Business Insights and Analytics Tailored for Blockchain Apps
 
-Your blockchain infrastructure is only one click away, with Ocyan you can deploy as many private or public projects in a blockchain infrastructure that fits your needs the best.
+We monitor the application specific interactions, log and classify any correlation that concerns your application.
 
-#### <i class="icon-building"></i> Business Support
+#### <i class="icon-building"></i> Native Cloud Integration
 
-Our team is always here to help! We will support you, and do our best to enable your business to jump into new innovations, with a guarantee of success.
+Connect your cloud application natively to our analytics and infrastructure platform as any other cloud service.
 
 https://ocyan.com
