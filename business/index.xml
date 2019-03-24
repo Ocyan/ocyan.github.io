@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Businesses on Ocyan - Cloud-Native Blockchain Infrastructure &amp; Analytics</title>
+    <link>/business/</link>
+    <description>Recent content in Businesses on Ocyan - Cloud-Native Blockchain Infrastructure &amp; Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Copyright (C) Evalonlabs LTD - All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 22 Mar 2019 17:20:26 +0000</lastBuildDate>
+    
+	<atom:link href="/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/business/about/</link>
+      <pubDate>Fri, 22 Mar 2019 17:20:26 +0000</pubDate>
+      
+      <guid>/business/about/</guid>
+      <description>Ocyan was founded with the belief that a future where innovations are based on decentralized networks is more interesting, robust, secure and fair than one where they are not. Today, Ocyan is actively developing Blockchain and Cloud Innovation to make this possible, with the ultimate goal of enabling any kind of business to trade first over a decentralized network.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/business/contact/</link>
+      <pubDate>Fri, 22 Mar 2019 17:20:26 +0000</pubDate>
+      
+      <guid>/business/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadmap</title>
+      <link>/business/roadmap/</link>
+      <pubDate>Fri, 22 Mar 2019 17:00:08 +0000</pubDate>
+      
+      <guid>/business/roadmap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

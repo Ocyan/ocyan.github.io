@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use-cases on Ocyan - Cloud-Native Blockchain Infrastructure &amp; Analytics</title>
+    <link>/use-cases/</link>
+    <description>Recent content in Use-cases on Ocyan - Cloud-Native Blockchain Infrastructure &amp; Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Copyright (C) Evalonlabs LTD - All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 22 Mar 2019 17:01:42 +0000</lastBuildDate>
+    
+	<atom:link href="/use-cases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Integration</title>
+      <link>/use-cases/aws-integration/</link>
+      <pubDate>Fri, 22 Mar 2019 17:01:42 +0000</pubDate>
+      
+      <guid>/use-cases/aws-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Transformation</title>
+      <link>/use-cases/digital-transformation/</link>
+      <pubDate>Fri, 22 Mar 2019 17:01:42 +0000</pubDate>
+      
+      <guid>/use-cases/digital-transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partnership</title>
+      <link>/use-cases/partnership/</link>
+      <pubDate>Fri, 22 Mar 2019 17:01:30 +0000</pubDate>
+      
+      <guid>/use-cases/partnership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fintech</title>
+      <link>/use-cases/fintech/</link>
+      <pubDate>Fri, 22 Mar 2019 17:01:21 +0000</pubDate>
+      
+      <guid>/use-cases/fintech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

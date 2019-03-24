@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ocyan - Cloud-Native Blockchain Infrastructure &amp; Analytics</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Ocyan - Cloud-Native Blockchain Infrastructure &amp; Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Copyright (C) Evalonlabs LTD - All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 22 Mar 2019 10:37:58 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello from Ocyan</title>
+      <link>/posts/2019/03/hello-from-ocyan/</link>
+      <pubDate>Fri, 22 Mar 2019 10:37:58 +0000</pubDate>
+      
+      <guid>/posts/2019/03/hello-from-ocyan/</guid>
+      <description>Enter Ocyan Cloud Ocyan was founded with the belief that a future where innovations are based on decentralized networks is more interesting than one where they are not. Today, Ocyan is actively developing Blockchain &amp;amp; Cloud Innovation to make this possible, with the ultimate goal of enabling any kind of business to trade first over a decentralized network. Our Vision Organisations around the world will trust us when they think of a Blockchain enabler.</description>
+    </item>
+    
+  </channel>
+</rss>
