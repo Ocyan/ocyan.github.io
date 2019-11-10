@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Cloud OS for Blockchains Blog</title>
+        <link>https://ocyan.com/learn</link>
+        <description>Cloud OS for Blockchains Blog</description>
+        <lastBuildDate>Tue, 07 May 2019 13:46:03 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2019 Ocyan Cloud Technology LTD.</copyright>
+        <item>
+            <title><![CDATA[Crossing the Blockchain Chasm]]></title>
+            <link>https://ocyan.com/learn/crossing-the-blockchain-chasm</link>
+            <guid>https://ocyan.com/learn/crossing-the-blockchain-chasm</guid>
+            <pubDate>Tue, 07 May 2019 13:46:03 GMT</pubDate>
+            <description><![CDATA[Insightful analytics is the secret sauce of our current data-driven hyperconnected economy to run effectively any kind of trade, no matter the business size, vertical or geography.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Enterprise Blockchain Adoption]]></title>
+            <link>https://ocyan.com/learn/enterprise-blockchain-adoption</link>
+            <guid>https://ocyan.com/learn/enterprise-blockchain-adoption</guid>
+            <pubDate>Thu, 02 May 2019 10:37:58 GMT</pubDate>
+            <description><![CDATA[Blockchain technology is known to streamline business processes, add new business models and even remodel businesses.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello from Ocyan]]></title>
+            <link>https://ocyan.com/learn/hello-from-ocyan</link>
+            <guid>https://ocyan.com/learn/hello-from-ocyan</guid>
+            <pubDate>Fri, 22 Mar 2019 10:37:58 GMT</pubDate>
+            <description><![CDATA[Ocyan is a Cloud platform that allows FinTech businesses to scale up in the blockchain space, by providing all the required infrastructure in the click of the button.]]></description>
+        </item>
+    </channel>
+</rss>

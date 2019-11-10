@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ocyan.com/learn</id>
+    <title>Cloud OS for Blockchains Blog</title>
+    <updated>2019-05-07T13:46:03.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ocyan.com/learn"/>
+    <subtitle>Cloud OS for Blockchains Blog</subtitle>
+    <icon>https://ocyan.com/favicon.ico</icon>
+    <rights>Copyright © 2019 Ocyan Cloud Technology LTD.</rights>
+    <entry>
+        <title type="html"><![CDATA[Crossing the Blockchain Chasm]]></title>
+        <id>crossing-the-blockchain-chasm</id>
+        <link href="https://ocyan.com/learn/crossing-the-blockchain-chasm"/>
+        <updated>2019-05-07T13:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Insightful analytics is the secret sauce of our current data-driven hyperconnected economy to run effectively any kind of trade, no matter the business size, vertical or geography.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprise Blockchain Adoption]]></title>
+        <id>enterprise-blockchain-adoption</id>
+        <link href="https://ocyan.com/learn/enterprise-blockchain-adoption"/>
+        <updated>2019-05-02T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is known to streamline business processes, add new business models and even remodel businesses.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello from Ocyan]]></title>
+        <id>hello-from-ocyan</id>
+        <link href="https://ocyan.com/learn/hello-from-ocyan"/>
+        <updated>2019-03-22T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Ocyan is a Cloud platform that allows FinTech businesses to scale up in the blockchain space, by providing all the required infrastructure in the click of the button.]]></summary>
+    </entry>
+</feed>

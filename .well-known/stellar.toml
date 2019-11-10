@@ -1,0 +1,71 @@
+NODE_NAMES = [
+  "GCAT3B53EIIGOQD35LOTABMP33TRTI6MVBUNLSJM3QRDQKFP4NL36N5W ocn_signer", 
+  "GAK6IW67P3UB7BV5GN5XG72FUO4E6XKQ7XJOBQ4HFPM6FR5ZDFG25UZO ocn_issuer",
+  "GA5MLJBI3PP4I66XZMZZDGOD4NFL3QM7B6EYHEWBWY67FYD3ZO4UZRWV ocyan_1", 
+  "GDP3YV47X6KH6MM6BS2V2D76GCMDMH5PRTRCPFWOKHBVPKKM3IJ4DV75 ocyan_2", 
+  "GDJZHPJNJBDFBF6BC5LS744E334JNDT2NEXAAUSETLH3OQKZPSW42BHD ocyan_3",
+  "GAOO3LWBC4XF6VWRP5ESJ6IBHAISVJMSBTALHOQM2EZG7Q477UWA6L7U eno",
+  "GCGB2S2KGYARPVIA37HYZXVRM2YZUEXA6S33ZU5BUDC6THSB62LZSTYH sdf_watcher1",
+  "GCM6QMP3DLRPTAZW2UZPCPX2LF3SXWXKPMP3GKFZBDSF3QZGV2G5QSTK sdf_watcher2",
+  "GABMKJM6I25XI4K7U6XWMULOUQIQ27BCTMLS6BYYSOWKTBUXVRJSXHYQ sdf_watcher3"
+]
+
+SIGNING_KEY = "$ocn_signer"
+ASSET_VALIDATOR = "$ocyan_1"
+
+ACCOUNTS = [
+  "GA3OWFINRJQYL7T5OEBXUWQFAOJRPZJ4D5AXMM2COGLHFRIG4DFPUSQJ", 
+  "$ocn_signer","$ocn_issuer","$ocyan_1","$ocyan_2","$ocyan_3"
+]
+
+OUR_VALIDATORS = ["$ocyan_1", "$ocyan_2", "$ocyan_3"]
+
+[DOCUMENTATION]
+ORG_NAME="Ocyan Cloud LTD"
+ORG_DBA="Ocyan"
+ORG_URL="https://ocyan.com"
+ORG_LOGO="https://ocyan.com/images/logo.png"
+ORG_DESCRIPTION="Ocyan is a Blockchain & Cloud Innovation company that provides enterprise solutions for Fintech Blockchain Applications"
+ORG_PHYSICAL_ADDRESS="71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ"
+ORG_PHONE_NUMBER="+4402039463204"
+ORG_TWITTER="ocyan_cloud"
+ORG_GITHUB="ocyan"
+ORG_OFFICIAL_EMAIL="contact@ocyan.com"
+
+[[PRINCIPALS]]
+name="Evangelos Pappas"
+email="epappas@ocyan.com"
+keybase="epappas"
+telegram="epappas"
+twitter="hevalon"
+github="epappas"
+
+[[PRINCIPALS]]
+name="Gabriele Cacciola"
+email="gabriele@ocyan.com"
+keybase="gabrielecacciola"
+
+KNOWN_PEERS = [
+  "stellar1.tempo.eu.com",
+  "au.stellar.ibm.com",
+  "br.stellar.ibm.com",
+  "ca.stellar.ibm.com",
+  "no.stellar.ibm.com",
+  "it.stellar.ibm.com",
+  "hk.stellar.ibm.com",
+  "in.stellar.ibm.com",
+  "uk.stellar.ibm.com",
+  "us.stellar.ibm.com",
+  "stellar0.keybase.io",
+  "core-live-a.stellar.org",
+  "core-live-b.stellar.org",
+  "core-live-c.stellar.org",
+  "ohio-1.stellar.stellarport.io",
+  "ohio-2.stellar.stellarport.io",
+  "stellar.ocyan.com"
+]
+
+[QUORUM_SET]
+VALIDATORS=[
+"$eno","$sdf_watcher1","$sdf_watcher2","$sdf_watcher3","$ocyan_1","$ocyan_2","$ocyan_3"
+]
