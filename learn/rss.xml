@@ -5,41 +5,41 @@
         <link>https://ocyan.com/learn</link>
         <description>Cloud OS for Blockchains Blog</description>
         <lastBuildDate>Tue, 24 Dec 2019 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Ocyan Cloud Technology LTD.</copyright>
         <item>
             <title><![CDATA[Blockchain is Complicated, can’t I just use a database?]]></title>
             <link>https://ocyan.com/learn/blockchain-is-complicated-cant-i-just-use-a-database</link>
-            <guid>https://ocyan.com/learn/blockchain-is-complicated-cant-i-just-use-a-database</guid>
+            <guid>blockchain-is-complicated-cant-i-just-use-a-database</guid>
             <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[During the digital transformation journey, a multi-party communication is often required; either between different organisations or departments or even an open and transparent access to a broader audience. These archetypes can be found across different industries, such as trading, logistics, banking & insurance and Telecoms.]]></description>
         </item>
         <item>
             <title><![CDATA[Blockchain is Complicated, can we just use APIs?]]></title>
             <link>https://ocyan.com/learn/blockchain-is-complicated-can-we-just-use-apis</link>
-            <guid>https://ocyan.com/learn/blockchain-is-complicated-can-we-just-use-apis</guid>
+            <guid>blockchain-is-complicated-can-we-just-use-apis</guid>
             <pubDate>Thu, 14 Nov 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Debunking some myths around the Blockchain technology, and approach the whole essence of the Practical Blockchain, and their use in the enterprise, across multiple industries.]]></description>
         </item>
         <item>
             <title><![CDATA[Crossing the Blockchain Chasm]]></title>
             <link>https://ocyan.com/learn/crossing-the-blockchain-chasm</link>
-            <guid>https://ocyan.com/learn/crossing-the-blockchain-chasm</guid>
+            <guid>crossing-the-blockchain-chasm</guid>
             <pubDate>Tue, 07 May 2019 13:46:03 GMT</pubDate>
             <description><![CDATA[Insightful analytics is the secret sauce of our current data-driven hyperconnected economy to run effectively any kind of trade, no matter the business size, vertical or geography.]]></description>
         </item>
         <item>
             <title><![CDATA[Enterprise Blockchain Adoption]]></title>
             <link>https://ocyan.com/learn/enterprise-blockchain-adoption</link>
-            <guid>https://ocyan.com/learn/enterprise-blockchain-adoption</guid>
+            <guid>enterprise-blockchain-adoption</guid>
             <pubDate>Thu, 02 May 2019 10:37:58 GMT</pubDate>
             <description><![CDATA[Blockchain technology is known to streamline business processes, add new business models and even remodel businesses.]]></description>
         </item>
         <item>
             <title><![CDATA[Hello from Ocyan]]></title>
             <link>https://ocyan.com/learn/hello-from-ocyan</link>
-            <guid>https://ocyan.com/learn/hello-from-ocyan</guid>
+            <guid>hello-from-ocyan</guid>
             <pubDate>Fri, 22 Mar 2019 10:37:58 GMT</pubDate>
             <description><![CDATA[Ocyan is a Cloud platform that allows FinTech businesses to scale up in the blockchain space, by providing all the required infrastructure in the click of the button.]]></description>
         </item>
