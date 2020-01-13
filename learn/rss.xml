@@ -4,10 +4,17 @@
         <title>Cloud OS for Blockchains Blog</title>
         <link>https://ocyan.com/learn</link>
         <description>Cloud OS for Blockchains Blog</description>
-        <lastBuildDate>Tue, 24 Dec 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2020 10:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Ocyan Cloud Technology LTD.</copyright>
+        <item>
+            <title><![CDATA[Blockchain... but which one?]]></title>
+            <link>https://ocyan.com/learn/blockchain-which-one</link>
+            <guid>blockchain-which-one</guid>
+            <pubDate>Mon, 13 Jan 2020 10:37:58 GMT</pubDate>
+            <description><![CDATA[If you or your company are considering kickstarting a blockchain project, and maybe you are in the initial discovery phase, you will discover that the Blockchain universe contains many different flavours.]]></description>
+        </item>
         <item>
             <title><![CDATA[Blockchain is Complicated, can’t I just use a database?]]></title>
             <link>https://ocyan.com/learn/blockchain-is-complicated-cant-i-just-use-a-database</link>

@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ocyan.com/learn</id>
     <title>Cloud OS for Blockchains Blog</title>
-    <updated>2019-12-24T00:00:00.000Z</updated>
+    <updated>2020-01-13T10:37:58.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ocyan.com/learn"/>
     <subtitle>Cloud OS for Blockchains Blog</subtitle>
     <icon>https://ocyan.com/favicon.ico</icon>
     <rights>Copyright © 2020 Ocyan Cloud Technology LTD.</rights>
+    <entry>
+        <title type="html"><![CDATA[Blockchain... but which one?]]></title>
+        <id>blockchain-which-one</id>
+        <link href="https://ocyan.com/learn/blockchain-which-one"/>
+        <updated>2020-01-13T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[If you or your company are considering kickstarting a blockchain project, and maybe you are in the initial discovery phase, you will discover that the Blockchain universe contains many different flavours.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain is Complicated, can’t I just use a database?]]></title>
         <id>blockchain-is-complicated-cant-i-just-use-a-database</id>
