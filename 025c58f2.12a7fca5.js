@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{183:function(e){e.exports=JSON.parse('{"allTagsPath":"/learn/tags","slug":"decentralised","name":"decentralised","count":1,"permalink":"/learn/tags/decentralised"}')}}]);

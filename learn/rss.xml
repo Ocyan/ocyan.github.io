@@ -4,10 +4,17 @@
         <title>Cloud OS for Blockchains Blog</title>
         <link>https://ocyan.com/learn</link>
         <description>Cloud OS for Blockchains Blog</description>
-        <lastBuildDate>Fri, 31 Jan 2020 10:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2020 10:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Ocyan Cloud Technology LTD.</copyright>
+        <item>
+            <title><![CDATA[Newsletter February 2020]]></title>
+            <link>https://ocyan.com/learn/newsletter-feb-2020</link>
+            <guid>newsletter-feb-2020</guid>
+            <pubDate>Tue, 18 Feb 2020 10:37:58 GMT</pubDate>
+            <description><![CDATA[Welcome to Ocyan’s Newsletter. Through this publication we’ll be notifying you for use cases around the practical use of enterprise blockchain and P2P Networks on production, and also any important update for Ocyan.]]></description>
+        </item>
         <item>
             <title><![CDATA[The Ultimate Guide to Implementing Enterprise Blockchain Solutions]]></title>
             <link>https://ocyan.com/learn/the-ultimate-guide-to-implementing-enterprise-blockchain-solutions</link>
