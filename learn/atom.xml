@@ -2,12 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ocyan.com/learn</id>
     <title>Cloud OS for Blockchains Blog</title>
-    <updated>2020-01-13T10:37:58.000Z</updated>
+    <updated>2020-01-31T10:37:58.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ocyan.com/learn"/>
     <subtitle>Cloud OS for Blockchains Blog</subtitle>
     <icon>https://ocyan.com/favicon.ico</icon>
     <rights>Copyright © 2020 Ocyan Cloud Technology LTD.</rights>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to Implementing Enterprise Blockchain Solutions]]></title>
+        <id>the-ultimate-guide-to-implementing-enterprise-blockchain-solutions</id>
+        <link href="https://ocyan.com/learn/the-ultimate-guide-to-implementing-enterprise-blockchain-solutions"/>
+        <updated>2020-01-31T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Join us as we take a look at the current Blockchain market and discuss how you can successfully implement your next Blockchain project. Find out more at Ocyan.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Enterprises Struggle When Adopting Blockchain]]></title>
+        <id>why-enterprises-struggle-when-adopting-blockchain</id>
+        <link href="https://ocyan.com/learn/why-enterprises-struggle-when-adopting-blockchain"/>
+        <updated>2020-01-24T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Read about the Blockchain journey and how you can move from Blockchain R&D to enterprise production. Learn more about enterprise Blockchain at Ocyan.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The importance of being decentralized]]></title>
+        <id>the-importance-of-being-decentralized</id>
+        <link href="https://ocyan.com/learn/the-importance-of-being-decentralized"/>
+        <updated>2020-01-17T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Read about the main characteristics of a decentralised system, covered by Gabriele Cacciola, CTO of Ocyan.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockchain... but which one?]]></title>
         <id>blockchain-which-one</id>

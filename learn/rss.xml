@@ -4,10 +4,31 @@
         <title>Cloud OS for Blockchains Blog</title>
         <link>https://ocyan.com/learn</link>
         <description>Cloud OS for Blockchains Blog</description>
-        <lastBuildDate>Mon, 13 Jan 2020 10:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2020 10:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Ocyan Cloud Technology LTD.</copyright>
+        <item>
+            <title><![CDATA[The Ultimate Guide to Implementing Enterprise Blockchain Solutions]]></title>
+            <link>https://ocyan.com/learn/the-ultimate-guide-to-implementing-enterprise-blockchain-solutions</link>
+            <guid>the-ultimate-guide-to-implementing-enterprise-blockchain-solutions</guid>
+            <pubDate>Fri, 31 Jan 2020 10:37:58 GMT</pubDate>
+            <description><![CDATA[Join us as we take a look at the current Blockchain market and discuss how you can successfully implement your next Blockchain project. Find out more at Ocyan.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why Enterprises Struggle When Adopting Blockchain]]></title>
+            <link>https://ocyan.com/learn/why-enterprises-struggle-when-adopting-blockchain</link>
+            <guid>why-enterprises-struggle-when-adopting-blockchain</guid>
+            <pubDate>Fri, 24 Jan 2020 10:37:58 GMT</pubDate>
+            <description><![CDATA[Read about the Blockchain journey and how you can move from Blockchain R&D to enterprise production. Learn more about enterprise Blockchain at Ocyan.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The importance of being decentralized]]></title>
+            <link>https://ocyan.com/learn/the-importance-of-being-decentralized</link>
+            <guid>the-importance-of-being-decentralized</guid>
+            <pubDate>Fri, 17 Jan 2020 10:37:58 GMT</pubDate>
+            <description><![CDATA[Read about the main characteristics of a decentralised system, covered by Gabriele Cacciola, CTO of Ocyan.]]></description>
+        </item>
         <item>
             <title><![CDATA[Blockchain... but which one?]]></title>
             <link>https://ocyan.com/learn/blockchain-which-one</link>
