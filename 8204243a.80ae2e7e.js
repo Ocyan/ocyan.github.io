@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{185:function(s){s.exports=JSON.parse('{"allTagsPath":"/learn/tags","slug":"consensus","name":"consensus","count":1,"permalink":"/learn/tags/consensus"}')}}]);

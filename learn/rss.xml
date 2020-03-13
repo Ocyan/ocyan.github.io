@@ -4,10 +4,17 @@
         <title>Cloud OS for Blockchains Blog</title>
         <link>https://ocyan.com/learn</link>
         <description>Cloud OS for Blockchains Blog</description>
-        <lastBuildDate>Tue, 18 Feb 2020 10:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2020 10:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Ocyan Cloud Technology LTD.</copyright>
+        <item>
+            <title><![CDATA[Understanding & Mitigating Practical Blockchain Risks]]></title>
+            <link>https://ocyan.com/learn/understanding-and-mitigating-practical-blockchain-risks</link>
+            <guid>understanding-and-mitigating-practical-blockchain-risks</guid>
+            <pubDate>Thu, 12 Mar 2020 10:37:58 GMT</pubDate>
+            <description><![CDATA[Find out about the key practical Blockchain risk factors to consider before implementation. Learn more about mitigating Blockchain risk at Ocyan.]]></description>
+        </item>
         <item>
             <title><![CDATA[Newsletter February 2020]]></title>
             <link>https://ocyan.com/learn/newsletter-feb-2020</link>
