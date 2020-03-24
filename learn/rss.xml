@@ -4,10 +4,17 @@
         <title>Cloud OS for Blockchains Blog</title>
         <link>https://ocyan.com/learn</link>
         <description>Cloud OS for Blockchains Blog</description>
-        <lastBuildDate>Thu, 12 Mar 2020 10:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2020 10:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Ocyan Cloud Technology LTD.</copyright>
+        <item>
+            <title><![CDATA[Corporate Vision Magazine showcases awards Ocyan as part of the Corporate Excellence Awards.]]></title>
+            <link>https://ocyan.com/learn/cv-magazine-awards-ocyan-corporate-excellence-awards</link>
+            <guid>cv-magazine-awards-ocyan-corporate-excellence-awards</guid>
+            <pubDate>Tue, 24 Mar 2020 10:37:58 GMT</pubDate>
+            <description><![CDATA[The Corporate Excellence Awards were launched by CV Magazine to showcase the companies and individuals that are committed to innovation, business growth, and providing the very best products and services to clients across a wide range of industries]]></description>
+        </item>
         <item>
             <title><![CDATA[Understanding & Mitigating Practical Blockchain Risks]]></title>
             <link>https://ocyan.com/learn/understanding-and-mitigating-practical-blockchain-risks</link>

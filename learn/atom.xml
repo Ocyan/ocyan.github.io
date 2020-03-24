@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ocyan.com/learn</id>
     <title>Cloud OS for Blockchains Blog</title>
-    <updated>2020-03-12T10:37:58.000Z</updated>
+    <updated>2020-03-24T10:37:58.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ocyan.com/learn"/>
     <subtitle>Cloud OS for Blockchains Blog</subtitle>
     <icon>https://ocyan.com/favicon.ico</icon>
     <rights>Copyright © 2020 Ocyan Cloud Technology LTD.</rights>
+    <entry>
+        <title type="html"><![CDATA[Corporate Vision Magazine showcases awards Ocyan as part of the Corporate Excellence Awards.]]></title>
+        <id>cv-magazine-awards-ocyan-corporate-excellence-awards</id>
+        <link href="https://ocyan.com/learn/cv-magazine-awards-ocyan-corporate-excellence-awards"/>
+        <updated>2020-03-24T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[The Corporate Excellence Awards were launched by CV Magazine to showcase the companies and individuals that are committed to innovation, business growth, and providing the very best products and services to clients across a wide range of industries]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding & Mitigating Practical Blockchain Risks]]></title>
         <id>understanding-and-mitigating-practical-blockchain-risks</id>

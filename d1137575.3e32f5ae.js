@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[72],{185:function(a){a.exports=JSON.parse('{"allTagsPath":"/learn/tags","slug":"blockchains","name":"blockchains","count":5,"permalink":"/learn/tags/blockchains"}')}}]);
