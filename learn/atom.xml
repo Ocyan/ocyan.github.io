@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ocyan.com/learn</id>
     <title>Cloud OS for Blockchains Blog</title>
-    <updated>2020-03-24T10:37:58.000Z</updated>
+    <updated>2020-03-27T10:37:58.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ocyan.com/learn"/>
     <subtitle>Cloud OS for Blockchains Blog</subtitle>
     <icon>https://ocyan.com/favicon.ico</icon>
     <rights>Copyright © 2020 Ocyan Cloud Technology LTD.</rights>
+    <entry>
+        <title type="html"><![CDATA[How We Provided a Blockchain Solution for a Telecoms Giant]]></title>
+        <id>how-we-provided-a-blockchain-solution-for-a-telecoms-giant</id>
+        <link href="https://ocyan.com/learn/how-we-provided-a-blockchain-solution-for-a-telecoms-giant"/>
+        <updated>2020-03-27T10:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Telefonica originally approached Ocyan as they needed a Blockchain infrastructure to support their extensive operations. Find out how we delivered the perfect solution by reading our case study.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corporate Vision Magazine showcases awards Ocyan as part of the Corporate Excellence Awards.]]></title>
         <id>cv-magazine-awards-ocyan-corporate-excellence-awards</id>
