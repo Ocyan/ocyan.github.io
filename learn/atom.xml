@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ocyan.com/learn</id>
-    <title>Cloud OS for Blockchains Blog</title>
+    <title>Digital and Financial Transformation Blog</title>
     <updated>2020-03-27T10:37:58.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ocyan.com/learn"/>
-    <subtitle>Cloud OS for Blockchains Blog</subtitle>
+    <subtitle>Digital and Financial Transformation Blog</subtitle>
     <icon>https://ocyan.com/favicon.ico</icon>
     <rights>Copyright © 2020 Ocyan Cloud Technology LTD.</rights>
     <entry>

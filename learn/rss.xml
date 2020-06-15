@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Cloud OS for Blockchains Blog</title>
+        <title>Digital and Financial Transformation Blog</title>
         <link>https://ocyan.com/learn</link>
-        <description>Cloud OS for Blockchains Blog</description>
+        <description>Digital and Financial Transformation Blog</description>
         <lastBuildDate>Fri, 27 Mar 2020 10:37:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 Ocyan Cloud Technology LTD.</copyright>
         <item>
             <title><![CDATA[How We Provided a Blockchain Solution for a Telecoms Giant]]></title>
             <link>https://ocyan.com/learn/how-we-provided-a-blockchain-solution-for-a-telecoms-giant</link>
-            <guid>how-we-provided-a-blockchain-solution-for-a-telecoms-giant</guid>
+            <guid>https://ocyan.com/learn/how-we-provided-a-blockchain-solution-for-a-telecoms-giant</guid>
             <pubDate>Fri, 27 Mar 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[Telefonica originally approached Ocyan as they needed a Blockchain infrastructure to support their extensive operations. Find out how we delivered the perfect solution by reading our case study.]]></description>
         </item>
         <item>
             <title><![CDATA[Corporate Vision Magazine showcases awards Ocyan as part of the Corporate Excellence Awards.]]></title>
             <link>https://ocyan.com/learn/cv-magazine-awards-ocyan-corporate-excellence-awards</link>
-            <guid>cv-magazine-awards-ocyan-corporate-excellence-awards</guid>
+            <guid>https://ocyan.com/learn/cv-magazine-awards-ocyan-corporate-excellence-awards</guid>
             <pubDate>Tue, 24 Mar 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[The Corporate Excellence Awards were launched by CV Magazine to showcase the companies and individuals that are committed to innovation, business growth, and providing the very best products and services to clients across a wide range of industries]]></description>
         </item>
         <item>
             <title><![CDATA[Understanding & Mitigating Practical Blockchain Risks]]></title>
             <link>https://ocyan.com/learn/understanding-and-mitigating-practical-blockchain-risks</link>
-            <guid>understanding-and-mitigating-practical-blockchain-risks</guid>
+            <guid>https://ocyan.com/learn/understanding-and-mitigating-practical-blockchain-risks</guid>
             <pubDate>Thu, 12 Mar 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[Find out about the key practical Blockchain risk factors to consider before implementation. Learn more about mitigating Blockchain risk at Ocyan.]]></description>
         </item>
         <item>
             <title><![CDATA[Newsletter February 2020]]></title>
             <link>https://ocyan.com/learn/newsletter-feb-2020</link>
-            <guid>newsletter-feb-2020</guid>
+            <guid>https://ocyan.com/learn/newsletter-feb-2020</guid>
             <pubDate>Tue, 18 Feb 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[Welcome to Ocyan’s Newsletter. Through this publication we’ll be notifying you for use cases around the practical use of enterprise blockchain and P2P Networks on production, and also any important update for Ocyan.]]></description>
         </item>
         <item>
             <title><![CDATA[The Ultimate Guide to Implementing Enterprise Blockchain Solutions]]></title>
             <link>https://ocyan.com/learn/the-ultimate-guide-to-implementing-enterprise-blockchain-solutions</link>
-            <guid>the-ultimate-guide-to-implementing-enterprise-blockchain-solutions</guid>
+            <guid>https://ocyan.com/learn/the-ultimate-guide-to-implementing-enterprise-blockchain-solutions</guid>
             <pubDate>Fri, 31 Jan 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[Join us as we take a look at the current Blockchain market and discuss how you can successfully implement your next Blockchain project. Find out more at Ocyan.]]></description>
         </item>
         <item>
             <title><![CDATA[Why Enterprises Struggle When Adopting Blockchain]]></title>
             <link>https://ocyan.com/learn/why-enterprises-struggle-when-adopting-blockchain</link>
-            <guid>why-enterprises-struggle-when-adopting-blockchain</guid>
+            <guid>https://ocyan.com/learn/why-enterprises-struggle-when-adopting-blockchain</guid>
             <pubDate>Fri, 24 Jan 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[Read about the Blockchain journey and how you can move from Blockchain R&D to enterprise production. Learn more about enterprise Blockchain at Ocyan.]]></description>
         </item>
         <item>
             <title><![CDATA[The importance of being decentralized]]></title>
             <link>https://ocyan.com/learn/the-importance-of-being-decentralized</link>
-            <guid>the-importance-of-being-decentralized</guid>
+            <guid>https://ocyan.com/learn/the-importance-of-being-decentralized</guid>
             <pubDate>Fri, 17 Jan 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[Read about the main characteristics of a decentralised system, covered by Gabriele Cacciola, CTO of Ocyan.]]></description>
         </item>
         <item>
             <title><![CDATA[Blockchain... but which one?]]></title>
             <link>https://ocyan.com/learn/blockchain-which-one</link>
-            <guid>blockchain-which-one</guid>
+            <guid>https://ocyan.com/learn/blockchain-which-one</guid>
             <pubDate>Mon, 13 Jan 2020 10:37:58 GMT</pubDate>
             <description><![CDATA[If you or your company are considering kickstarting a blockchain project, and maybe you are in the initial discovery phase, you will discover that the Blockchain universe contains many different flavours.]]></description>
         </item>
         <item>
             <title><![CDATA[Blockchain is Complicated, can’t I just use a database?]]></title>
             <link>https://ocyan.com/learn/blockchain-is-complicated-cant-i-just-use-a-database</link>
-            <guid>blockchain-is-complicated-cant-i-just-use-a-database</guid>
+            <guid>https://ocyan.com/learn/blockchain-is-complicated-cant-i-just-use-a-database</guid>
             <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[During the digital transformation journey, a multi-party communication is often required; either between different organisations or departments or even an open and transparent access to a broader audience. These archetypes can be found across different industries, such as trading, logistics, banking & insurance and Telecoms.]]></description>
         </item>
         <item>
             <title><![CDATA[Blockchain is Complicated, can we just use APIs?]]></title>
             <link>https://ocyan.com/learn/blockchain-is-complicated-can-we-just-use-apis</link>
-            <guid>blockchain-is-complicated-can-we-just-use-apis</guid>
+            <guid>https://ocyan.com/learn/blockchain-is-complicated-can-we-just-use-apis</guid>
             <pubDate>Thu, 14 Nov 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Debunking some myths around the Blockchain technology, and approach the whole essence of the Practical Blockchain, and their use in the enterprise, across multiple industries.]]></description>
         </item>
         <item>
             <title><![CDATA[Crossing the Blockchain Chasm]]></title>
             <link>https://ocyan.com/learn/crossing-the-blockchain-chasm</link>
-            <guid>crossing-the-blockchain-chasm</guid>
+            <guid>https://ocyan.com/learn/crossing-the-blockchain-chasm</guid>
             <pubDate>Tue, 07 May 2019 13:46:03 GMT</pubDate>
             <description><![CDATA[Insightful analytics is the secret sauce of our current data-driven hyperconnected economy to run effectively any kind of trade, no matter the business size, vertical or geography.]]></description>
         </item>
         <item>
             <title><![CDATA[Enterprise Blockchain Adoption]]></title>
             <link>https://ocyan.com/learn/enterprise-blockchain-adoption</link>
-            <guid>enterprise-blockchain-adoption</guid>
+            <guid>https://ocyan.com/learn/enterprise-blockchain-adoption</guid>
             <pubDate>Thu, 02 May 2019 10:37:58 GMT</pubDate>
             <description><![CDATA[Blockchain technology is known to streamline business processes, add new business models and even remodel businesses.]]></description>
         </item>
         <item>
             <title><![CDATA[Hello from Ocyan]]></title>
             <link>https://ocyan.com/learn/hello-from-ocyan</link>
-            <guid>hello-from-ocyan</guid>
+            <guid>https://ocyan.com/learn/hello-from-ocyan</guid>
             <pubDate>Fri, 22 Mar 2019 10:37:58 GMT</pubDate>
             <description><![CDATA[Ocyan is a Cloud platform that allows FinTech businesses to scale up in the blockchain space, by providing all the required infrastructure in the click of the button.]]></description>
         </item>
