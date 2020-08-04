@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{168:function(s){s.exports=JSON.parse('{"id":"impressum","title":"Impressum","sidebar_label":"Impressum","description":"# Impressum","source":"@site/docs/impressum.md","permalink":"/docs/impressum"}')}}]);
