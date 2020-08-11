@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{170:function(i){i.exports=JSON.parse('{"id":"disclaimer","title":"Disclaimer","sidebar_label":"Disclaimer","description":"# Disclaimer","source":"@site/docs/disclaimer.md","permalink":"/docs/disclaimer"}')}}]);

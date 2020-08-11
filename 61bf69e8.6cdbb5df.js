@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{181:function(n){n.exports=JSON.parse('{"id":"terms-and-conditions","title":"Terms and Conditions","sidebar_label":"Terms and Conditions","description":"# End User Terms and Conditions Agreement","source":"@site/docs/terms-and-conditions.md","permalink":"/docs/terms-and-conditions"}')}}]);

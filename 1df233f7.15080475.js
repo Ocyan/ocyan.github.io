@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{178:function(i){i.exports=JSON.parse('{"id":"privacy-policy","title":"Privacy Policy","sidebar_label":"Privacy Policy","description":"# Privacy, Cookies and Fraud Prevention Policy","source":"@site/docs/privacy-policy.md","permalink":"/docs/privacy-policy"}')}}]);
